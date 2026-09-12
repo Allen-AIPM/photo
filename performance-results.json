@@ -1,0 +1,128 @@
+{
+  "before": {
+    "elapsedMs": 100002,
+    "fcpMs": 492,
+    "lcpMs": 760,
+    "domContentLoadedMs": 135.10000000149012,
+    "loadMs": 705.7000000029802,
+    "longTaskCount": 4,
+    "longTaskMs": 541,
+    "draws": 5961,
+    "frames": 5966,
+    "frameGapP95Ms": 16.80000000000291,
+    "resourceBytes": 4842458,
+    "transferBytes": 4849058,
+    "images": [
+      {
+        "url": "/image/20260906114159947.jpg",
+        "bytes": 728060
+      },
+      {
+        "url": "/image/20260906095313059.jpg",
+        "bytes": 351654
+      },
+      {
+        "url": "/image/20260906095248851.jpg",
+        "bytes": 396774
+      },
+      {
+        "url": "/image/20260906095216508.jpg",
+        "bytes": 146740
+      },
+      {
+        "url": "/image/20260906095206401.jpg",
+        "bytes": 63964
+      },
+      {
+        "url": "/image/20260906095227651.jpg",
+        "bytes": 308752
+      },
+      {
+        "url": "/image/20260906095238729.jpg",
+        "bytes": 97576
+      },
+      {
+        "url": "/image/20260906095259938.jpg",
+        "bytes": 210620
+      },
+      {
+        "url": "/image/20260906095322254.jpg",
+        "bytes": 280296
+      },
+      {
+        "url": "/image/20260906095332322.jpg",
+        "bytes": 217928
+      },
+      {
+        "url": "/image/20260906111159730.jpg",
+        "bytes": 157536
+      },
+      {
+        "url": "/image/20260906111213425.jpg",
+        "bytes": 105204
+      },
+      {
+        "url": "/image/20260906111553040.jpg",
+        "bytes": 134038
+      },
+      {
+        "url": "/image/20260906111602745.jpg",
+        "bytes": 160804
+      },
+      {
+        "url": "/image/20260906114138157.jpg",
+        "bytes": 212640
+      },
+      {
+        "url": "/image/20260906114213143.jpg",
+        "bytes": 233622
+      },
+      {
+        "url": "/image/20260906114237351.jpg",
+        "bytes": 305604
+      },
+      {
+        "url": "/image/20260906114225199.jpg",
+        "bytes": 534016
+      }
+    ],
+    "requests": 22
+  },
+  "after": {
+    "elapsedMs": 62005,
+    "fcpMs": 584,
+    "lcpMs": 584,
+    "domContentLoadedMs": 162.39999999850988,
+    "loadMs": 474.8999999985099,
+    "longTaskCount": 3,
+    "longTaskMs": 461,
+    "draws": 74,
+    "frames": 3690,
+    "frameGapP95Ms": 16.800000000000182,
+    "resourceBytes": 572633,
+    "transferBytes": 576533,
+    "images": [
+      {
+        "url": "/optimized/20260906095216508-fe1ea480379d-480.webp",
+        "bytes": 27816
+      },
+      {
+        "url": "/optimized/20260906095216508-fe1ea480379d-1080.webp",
+        "bytes": 114768
+      },
+      {
+        "url": "/optimized/20260906114159947-845d43f52feb-480.webp",
+        "bytes": 99574
+      },
+      {
+        "url": "/optimized/20260906095313059-7163b23ebc26-480.webp",
+        "bytes": 77758
+      },
+      {
+        "url": "/optimized/20260906095248851-74204e6f1af7-480.webp",
+        "bytes": 77744
+      }
+    ],
+    "requests": 13
+  }
+}

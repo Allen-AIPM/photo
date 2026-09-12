@@ -1,0 +1,411 @@
+{
+  "20260906095206401.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 63964,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095206401-8ff0c8140a7e-480.webp",
+        "bytes": 16898
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095206401-8ff0c8140a7e-960.webp",
+        "bytes": 34316
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906095206401-8ff0c8140a7e-1080.webp",
+        "bytes": 42218
+      }
+    ]
+  },
+  "20260906095216508.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 146740,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095216508-fe1ea480379d-480.webp",
+        "bytes": 27816
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095216508-fe1ea480379d-960.webp",
+        "bytes": 76692
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906095216508-fe1ea480379d-1080.webp",
+        "bytes": 114768
+      }
+    ]
+  },
+  "20260906095227651.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 308752,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095227651-d7f28595f6bf-480.webp",
+        "bytes": 36508
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095227651-d7f28595f6bf-960.webp",
+        "bytes": 122680
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906095227651-d7f28595f6bf-1080.webp",
+        "bytes": 186694
+      }
+    ]
+  },
+  "20260906095238729.jpg": {
+    "width": 980,
+    "height": 1144,
+    "shape": "portrait",
+    "originalBytes": 97576,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095238729-ca9ee6fc87d8-480.webp",
+        "bytes": 24864
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095238729-ca9ee6fc87d8-960.webp",
+        "bytes": 57638
+      },
+      {
+        "width": 980,
+        "src": "/optimized/20260906095238729-ca9ee6fc87d8-980.webp",
+        "bytes": 65608
+      }
+    ]
+  },
+  "20260906095248851.jpg": {
+    "width": 1080,
+    "height": 1446,
+    "shape": "portrait",
+    "originalBytes": 396774,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095248851-74204e6f1af7-480.webp",
+        "bytes": 77744
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095248851-74204e6f1af7-960.webp",
+        "bytes": 224664
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906095248851-74204e6f1af7-1080.webp",
+        "bytes": 337178
+      }
+    ]
+  },
+  "20260906095259938.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 210620,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095259938-df52eadcbe68-480.webp",
+        "bytes": 44314
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095259938-df52eadcbe68-960.webp",
+        "bytes": 123810
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906095259938-df52eadcbe68-1080.webp",
+        "bytes": 175244
+      }
+    ]
+  },
+  "20260906095313059.jpg": {
+    "width": 928,
+    "height": 1232,
+    "shape": "portrait",
+    "originalBytes": 351654,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095313059-7163b23ebc26-480.webp",
+        "bytes": 77758
+      },
+      {
+        "width": 928,
+        "src": "/optimized/20260906095313059-7163b23ebc26-928.webp",
+        "bytes": 285496
+      }
+    ]
+  },
+  "20260906095322254.jpg": {
+    "width": 1080,
+    "height": 1441,
+    "shape": "portrait",
+    "originalBytes": 280296,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095322254-fea5c272a94e-480.webp",
+        "bytes": 59386
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095322254-fea5c272a94e-960.webp",
+        "bytes": 159210
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906095322254-fea5c272a94e-1080.webp",
+        "bytes": 230200
+      }
+    ]
+  },
+  "20260906095332322.jpg": {
+    "width": 1434,
+    "height": 1080,
+    "shape": "landscape",
+    "originalBytes": 217928,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906095332322-c78463df945f-480.webp",
+        "bytes": 17450
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906095332322-c78463df945f-960.webp",
+        "bytes": 69852
+      },
+      {
+        "width": 1434,
+        "src": "/optimized/20260906095332322-c78463df945f-1434.webp",
+        "bytes": 172426
+      }
+    ]
+  },
+  "20260906111159730.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 157536,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906111159730-db75480aa2a3-480.webp",
+        "bytes": 25362
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906111159730-db75480aa2a3-960.webp",
+        "bytes": 68636
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906111159730-db75480aa2a3-1080.webp",
+        "bytes": 98170
+      }
+    ]
+  },
+  "20260906111213425.jpg": {
+    "width": 1851,
+    "height": 1080,
+    "shape": "landscape",
+    "originalBytes": 105204,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906111213425-b8ae7e312e4e-480.webp",
+        "bytes": 11266
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906111213425-b8ae7e312e4e-960.webp",
+        "bytes": 28222
+      },
+      {
+        "width": 1440,
+        "src": "/optimized/20260906111213425-b8ae7e312e4e-1440.webp",
+        "bytes": 45704
+      }
+    ]
+  },
+  "20260906111553040.jpg": {
+    "width": 1080,
+    "height": 1800,
+    "shape": "portrait",
+    "originalBytes": 134038,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906111553040-e835143d54d3-480.webp",
+        "bytes": 32736
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906111553040-e835143d54d3-960.webp",
+        "bytes": 72202
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906111553040-e835143d54d3-1080.webp",
+        "bytes": 91270
+      }
+    ]
+  },
+  "20260906111602745.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 160804,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906111602745-7284815fc825-480.webp",
+        "bytes": 22918
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906111602745-7284815fc825-960.webp",
+        "bytes": 62812
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906111602745-7284815fc825-1080.webp",
+        "bytes": 88044
+      }
+    ]
+  },
+  "20260906114138157.jpg": {
+    "width": 1080,
+    "height": 1447,
+    "shape": "portrait",
+    "originalBytes": 212640,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906114138157-1ab8bf516ec4-480.webp",
+        "bytes": 26164
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906114138157-1ab8bf516ec4-960.webp",
+        "bytes": 79024
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906114138157-1ab8bf516ec4-1080.webp",
+        "bytes": 116168
+      }
+    ]
+  },
+  "20260906114159947.jpg": {
+    "width": 1080,
+    "height": 1815,
+    "shape": "portrait",
+    "originalBytes": 728060,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906114159947-845d43f52feb-480.webp",
+        "bytes": 99574
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906114159947-845d43f52feb-960.webp",
+        "bytes": 308540
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906114159947-845d43f52feb-1080.webp",
+        "bytes": 434960
+      }
+    ]
+  },
+  "20260906114213143.jpg": {
+    "width": 1080,
+    "height": 1446,
+    "shape": "portrait",
+    "originalBytes": 233622,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906114213143-a696ab2d262c-480.webp",
+        "bytes": 43580
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906114213143-a696ab2d262c-960.webp",
+        "bytes": 120506
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906114213143-a696ab2d262c-1080.webp",
+        "bytes": 191644
+      }
+    ]
+  },
+  "20260906114225199.jpg": {
+    "width": 2113,
+    "height": 1080,
+    "shape": "landscape",
+    "originalBytes": 534016,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906114225199-898141798d42-480.webp",
+        "bytes": 25848
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906114225199-898141798d42-960.webp",
+        "bytes": 96002
+      },
+      {
+        "width": 1440,
+        "src": "/optimized/20260906114225199-898141798d42-1440.webp",
+        "bytes": 191520
+      }
+    ]
+  },
+  "20260906114237351.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "shape": "portrait",
+    "originalBytes": 305604,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260906114237351-ac21b12f3986-480.webp",
+        "bytes": 48774
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260906114237351-ac21b12f3986-960.webp",
+        "bytes": 151754
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260906114237351-ac21b12f3986-1080.webp",
+        "bytes": 237640
+      }
+    ]
+  }
+}

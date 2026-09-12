@@ -1,0 +1,23 @@
+.hero-copy h1 .fold-text{font-size:inherit;line-height:1.45;letter-spacing:2px;white-space:nowrap;color:var(--fold-text-color)}
+.hero-copy h1 .fold-text span{color:inherit}
+.hero-copy h1 .fold-text-piece{line-height:1.45}
+.page-glow{position:fixed!important;inset:0!important;width:100vw!important;height:100vh!important;pointer-events:none!important;z-index:40;overflow:hidden}
+.target-cursor-wrapper{mix-blend-mode:normal!important;filter:drop-shadow(0 0 2px #fff8);opacity:0}
+.hero-stack{position:absolute;inset:5% 10% 10% 5%;transform:rotate(-5deg)}
+.hero-stack .stack-card{background:#fffdf8;border:1px solid #e7dfd3;padding:13px;box-shadow:0 22px 60px #6f553022;border-radius:8px;display:block;outline-offset:8px}
+.hero-stack figure{margin:0;width:100%;height:100%;display:flex;flex-direction:column}
+.hero-stack figure img{width:100%;height:calc(100% - 48px);object-fit:cover;pointer-events:none}
+.hero-stack figcaption{height:48px;display:flex;align-items:center;justify-content:space-between;gap:20px;color:#9d907d;font-size:12px;letter-spacing:1px}
+.hero-stack figcaption span:first-child{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+.hero-stack figcaption span:last-child{flex-shrink:0}
+.hero-visual .hero-spark{pointer-events:none;right:-1%;bottom:4%;font-size:100px}
+.hero-visual .handwritten{left:auto;right:14%;bottom:-30px;pointer-events:none}
+.stack-hint{position:absolute;left:7%;bottom:0;color:#9d907d;font-size:12px;letter-spacing:1px}
+.specular-button{box-shadow:0 8px 25px #c96a451c}
+.specular-button.explore-button{padding:18px 26px;background:#c96a45;font-size:15px}
+.explore-button .specular-button__label{display:flex;align-items:center;gap:36px;font-size:15px}
+.explore-button .specular-button__label>span{font-size:21px}
+.specular-button__fx{display:block!important;font-size:inherit!important}
+.stack-card:focus-visible{outline:2px solid var(--orange)}
+@media(max-width:800px){.hero-stack{inset:2% 12% 12% 6%}.hero-visual .hero-spark{font-size:65px}.hero-stack figcaption{font-size:11px}.hero-visual .handwritten{bottom:-24px}.stack-hint{bottom:-3px}}
+@media(prefers-reduced-motion:reduce){.page-glow,.target-cursor-wrapper,.specular-button__fx{display:none!important}}
