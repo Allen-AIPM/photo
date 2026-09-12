@@ -1,0 +1,7 @@
+{
+  "model": "qwen3-vl-plus",
+  "enable_thinking": false,
+  "success": 0,
+  "cached": 19,
+  "failed": []
+}

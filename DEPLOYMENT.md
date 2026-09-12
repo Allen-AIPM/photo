@@ -1,6 +1,6 @@
 # GitHub 与 Cloudflare 部署说明
 
-这是可独立构建的 React + Vite 静态网站。网站内容、18 张原图、压缩图片、五种动效源码、构建脚本、依赖锁文件都在项目内，不依赖桌面原始灵感库目录，也不需要 API Key 或数据库。
+这是可独立构建的 React + Vite 静态网站。网站内容、18 张原图、压缩图片、五种动效源码、构建脚本、依赖锁文件都在项目内，不依赖桌面原始灵感库目录。已构建的网站不需要 API Key 或数据库；API Key 只供本机每日打标脚本使用。
 
 ## 1. 上传 GitHub
 
@@ -62,5 +62,5 @@ npm run preview
 
 - `public/_headers` 给带内容哈希的脚本和 WebP 设置一年缓存，修改内容会生成新文件名；原图使用重新验证缓存。依据：[Cloudflare Headers](https://developers.cloudflare.com/pages/configuration/headers/)。
 - 评论和收藏仍只保存在各自浏览器中，上传网站不会上传你本机的评论或收藏。更换域名或浏览器不会自动迁移，也不是多人共享评论系统。
-- 素材数据来自 `src/data.json`。原始 Excel 不会自动同步；修改数据或图片后重新构建并提交即可。
+- 素材数据来自 `src/data.json`。影刀完成写入后运行 `每日更新网站.cmd`，再提交生成的数据和图片。`.private` 与 `灵感库.xlsx` 默认不提交。
 - 后续若改为 GitHub Pages 的 `/仓库名/` 子路径托管，需要另外配置 Vite base 和资源路径。当前配置面向 Cloudflare 域名根路径，GitHub 在这里用于托管源码。

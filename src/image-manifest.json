@@ -407,5 +407,28 @@
         "bytes": 237640
       }
     ]
+  },
+  "20260912205901.jpg": {
+    "width": 1080,
+    "height": 1080,
+    "shape": "square",
+    "originalBytes": 134222,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/optimized/20260912205901-7a49c4eeb426-480.webp",
+        "bytes": 24486
+      },
+      {
+        "width": 960,
+        "src": "/optimized/20260912205901-7a49c4eeb426-960.webp",
+        "bytes": 74078
+      },
+      {
+        "width": 1080,
+        "src": "/optimized/20260912205901-7a49c4eeb426-1080.webp",
+        "bytes": 110856
+      }
+    ]
   }
 }

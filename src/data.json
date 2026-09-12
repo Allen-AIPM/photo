@@ -1018,14 +1018,73 @@
           "source": "小红书"
         }
       ]
+    },
+    {
+      "file": "20260912205901.jpg",
+      "title": "无",
+      "tags": [
+        "文化建筑",
+        "现代主义",
+        "自然主义",
+        "砖",
+        "玻璃",
+        "金属",
+        "大地色系",
+        "低饱和",
+        "露台",
+        "户外休憩区"
+      ],
+      "author": "Shawn建筑空间影像",
+      "likes": "99",
+      "url": "https://www.xiaohongshu.com/explore/6aa40672000000000b036c5c?xsec_token=ABNy_QWIGorGTo3ahqWIbKAknF919SUzAiqXYLF3bGHY8=&xsec_source=pc_search&source=web_explore_feed",
+      "source": "小红书",
+      "inferred": false,
+      "sha256": "6a83838636665e1008d3c03653cbd6675466d7c9cf2de6cf4745eb60a1b234f1",
+      "aiTags": {
+        "建筑类型": [
+          "文化建筑"
+        ],
+        "设计风格": [
+          "现代主义",
+          "自然主义"
+        ],
+        "材料元素": [
+          "砖",
+          "玻璃",
+          "金属"
+        ],
+        "色彩特征": [
+          "大地色系",
+          "低饱和"
+        ],
+        "场景用途": [
+          "露台",
+          "户外休憩区"
+        ]
+      },
+      "taggingStatus": "success",
+      "taggingModel": "qwen3-vl-plus",
+      "aliases": [
+        "20260912205901.jpg"
+      ],
+      "duplicateRecords": [
+        {
+          "file": "20260912205901.jpg",
+          "title": "无",
+          "author": "Shawn建筑空间影像",
+          "likes": "99",
+          "url": "https://www.xiaohongshu.com/explore/6aa40672000000000b036c5c?xsec_token=ABNy_QWIGorGTo3ahqWIbKAknF919SUzAiqXYLF3bGHY8=&xsec_source=pc_search&source=web_explore_feed",
+          "source": "小红书"
+        }
+      ]
     }
   ],
   "missing": [],
-  "matched": 18,
+  "matched": 19,
   "deduplication": {
     "algorithm": "SHA-256 (exact file bytes)",
-    "scanned": 18,
-    "unique": 18,
+    "scanned": 19,
+    "unique": 19,
     "duplicates": 0,
     "groups": [],
     "deleted": []

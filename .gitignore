@@ -1,11 +1,15 @@
 node_modules/
 dist/
+.private/
+灵感库.xlsx
+~$灵感库.xlsx
 .vite/
 .wrangler/
 .env
 .env.*
 !.env.example
 *.log
+update-log.txt
 .DS_Store
 Thumbs.db
 performance-local/
